@@ -1,4 +1,0 @@
-export TF_VAR_AWS_ACCESS_KEY="xxxxxxxxxxxxxxxxxxxx"
-export TF_VAR_AWS_SECRET_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-export TF_VAR_AWS_REGION="eu-west-1"
-
